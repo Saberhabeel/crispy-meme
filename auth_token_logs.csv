@@ -1,0 +1,3 @@
+id,action,user_auth_token_id,client_ip,auth_token_hash,created_at,path,user_agent
+409803,generate,4843,196.150.200.165,J2aEk...,2022-10-31 01:46:50 UTC,/u/activate-account/5e45c61f8e7230e76ee329dca188c4f9,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+409804,generate,4844,196.150.200.165,6kDCk...,2022-10-31 01:47:51 UTC,/session,"Mozilla/5.0 (Linux; Android 11; M2004J19C Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.5112.97 Mobile Safari/537.36"
